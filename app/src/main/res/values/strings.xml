@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyBaggage</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_home_first">HomeFirst</string>
+    <string name="title_activity_my_profile">MyProfile</string>
+    <string name="title_activity_forgot_password">ForgotPassword</string>
+    <string name="title_activity_nuggets">Nuggets</string>
+    <string name="title_activity_notifications">Notifications</string>
+    <string name="home">Home</string>
+</resources>
